@@ -8,9 +8,9 @@ A project focused on forecasting **renewable energy generation** (solar and wind
 
 ## 🔗 Project Links
 
-- 🔗 **Live Site (Render Deployment):** [Click Here](https://e-commerce-1-v51p.onrender.com)
-- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/posts/n-vighnesh-5b74aa24a_this-article-walks-through-the-development-activity-7299123204382408704-TR2I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2nQNsBQdZelgNmY9g432UqIzPRzqFrXts)
-- 📹 **Video Demo:** [Click Here](https://drive.google.com/file/d/1fkyxj2lCfAm4okD-uIi5u63ETUVnHR0w/view?usp=sharing)
+- 🔗 **Live Site (Render Deployment):** [Click Here]()
+- 📰 **LinkedIn Article:** [Click Here]()
+- 📹 **Video Demo:** [Click Here]()
 
 ---
 

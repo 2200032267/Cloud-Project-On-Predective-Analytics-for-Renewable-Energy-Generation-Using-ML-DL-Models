@@ -126,9 +126,4 @@ If you find this project useful or interesting, please ⭐ star this repository 
 Your support means a lot! 🙏
 
 ---
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/n-vighnesh-5b74aa24a/)  
-📧 *vighneshnv2@gmail.com*
 
----
-
-> If you found this project helpful or inspiring, ⭐ star this repository and share your thoughts on [LinkedIn]()!

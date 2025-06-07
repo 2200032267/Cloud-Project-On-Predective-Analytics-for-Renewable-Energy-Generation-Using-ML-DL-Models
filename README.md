@@ -1,10 +1,20 @@
 # ⚡ Predictive Analytics on Renewable Energy Generation Using ML & DL Models
 
+## 🚀 Project Overview
+
 A project focused on forecasting **renewable energy generation** (solar and wind) using advanced machine learning and deep learning models. The goal is to enhance power management efficiency by accurately predicting **AC power output** from renewable sources.
 
 ---
 
-## 🧠 Project Overview
+## 🔗 Project Links
+
+- 🔗 **Live Site (Render Deployment):** [Click Here](https://e-commerce-1-v51p.onrender.com)
+- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/posts/n-vighnesh-5b74aa24a_this-article-walks-through-the-development-activity-7299123204382408704-TR2I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2nQNsBQdZelgNmY9g432UqIzPRzqFrXts)
+- 📹 **Video Demo:** [Click Here](https://drive.google.com/file/d/1fkyxj2lCfAm4okD-uIi5u63ETUVnHR0w/view?usp=sharing)
+
+---
+
+## 📖 Introduction
 
 📊 This project leverages historical energy yield data and applies various **regression-based ML models** to forecast AC power generation with high accuracy.
 
@@ -96,9 +106,26 @@ To deploy and scale this project in production, consider the following cloud pla
 
 ---
 
-## 🧑‍💻 Author
+## 📸 Screenshots
 
-**Nedulla Vighnesh**  
+**Final Outputs**
+[Click Here](Final_Outputs/)
+
+---
+
+## 👤 Author
+
+**NEDULLA VIGHNESH**  
+- GitHub: [2200032267](https://github.com/2200032267)  
+- LinkedIn: [N VIGHNESH](https://www.linkedin.com/in/n-vighnesh-5b74aa24a)  
+- Email:vighneshnv2@gmail.com
+---
+## ⭐ Star This Repository
+
+If you find this project useful or interesting, please ⭐ star this repository to support and encourage further development!  
+Your support means a lot! 🙏
+
+---
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/n-vighnesh-5b74aa24a/)  
 📧 *vighneshnv2@gmail.com*
 

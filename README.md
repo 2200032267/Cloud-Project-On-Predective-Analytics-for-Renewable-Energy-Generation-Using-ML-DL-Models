@@ -8,9 +8,9 @@ A project focused on forecasting **renewable energy generation** (solar and wind
 
 ## 🔗 Project Links
 
-- 🔗 **Live Site (Render Deployment):** [Click Here]()
-- 📰 **LinkedIn Article:** [Click Here]()
-- 📹 **Video Demo:** [Click Here]()
+- 🔗 **Live Site (Render Deployment):** [Click Here](https://github.com/2200032267)
+- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/in/n-vighnesh-5b74aa24a/recent-activity/articles/)
+- 📹 **Video Demo:** [Click Here](https://drive.google.com/file/d/10rZlQkN3P1XIL227NBTmv4J-bFpT5J7R/view?usp=sharing)
 
 ---
 
